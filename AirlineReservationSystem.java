@@ -1,6 +1,6 @@
 // Import Scanner class to read user input from keyboard
 import java.util.Scanner;
-
+ 
 /* =========================================================
                         FLIGHT CLASS
    Represents an airplane flight with all its details
